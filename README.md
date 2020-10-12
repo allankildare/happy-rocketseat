@@ -7,4 +7,4 @@ Eu, enfatizo também, que tais visitas podem ser feitas também ao longo de todo
 
 Relatório do desenvolvimento de acordo com os dias:
 
-**Dia 1** -HTML e CSS estruturados na página inicial
+**Dia 1** - HTML e CSS estruturados na página inicial
